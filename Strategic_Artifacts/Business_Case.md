@@ -17,3 +17,5 @@ GCHA will adopt the Agile lifecycle model for all sites. Agile is preferred beca
 ## Section 3: Buy vs. Build
 
 GCHA is considered a **Build** project because the organization requires a customized solution tailored to its specific operational workflows, regulatory requirements, and integration needs. Building the system in-house ensures better control, scalability, and long-term alignment with business objectives. 
+
+· Commit message: Initial Business Case and Financial Evaluation.
