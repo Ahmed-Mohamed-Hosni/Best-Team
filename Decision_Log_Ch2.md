@@ -1,0 +1,1 @@
+The team has decided to choose the Build option by upgrading the Cairo data center. From a Technical Assessment perspective, relying on outdated servers creates a high technical risk for the AI engine performance and security. Upgrading the infrastructure ensures long-term technical feasibility, data privacy control, and strategic ownership of the system.
