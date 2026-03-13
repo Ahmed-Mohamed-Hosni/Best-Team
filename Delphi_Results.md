@@ -1,10 +1,10 @@
 Wideband Delphi Estimation Results
 Task: BER – AI Model Training
 Initial Secret Estimates
-Ahmed: 40 hours
-Ali: 25 hours
-Sara: 60 hours
-Omar: 35 hours
+Abdelhakm: 40 hours
+Ahmed: 25 hours
+Mohammed: 60 hours
+Kero: 35 hours
 Range
 Highest Estimate: 60 hours
 Lowest Estimate: 25 hours
